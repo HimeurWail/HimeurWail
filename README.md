@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=HimeurWail&color=blueviolet)
+
 ## About Me 💼
 - 🎓 I'm a computer science student specializing in software engineering.
 - 📚 I'm currently studying in the fifth year at the Higher National School of Computer Science in Algiers.
@@ -12,7 +14,6 @@
 ## GitHub Stats 📊
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HimeurWail&show_icons=true&theme=radical)
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=HimeurWail&theme=radical)
-![Profile views](https://komarev.com/ghpvc/?username=HimeurWail&color=blueviolet)
 
 ## Top Languages 🗣️
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimeurWail&layout=compact&theme=radical)
