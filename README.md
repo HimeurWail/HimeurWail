@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Wail Himeur 👋
 
-<!--
-**HimeurWail/HimeurWail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=HimeurWail&color=blueviolet)
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 I'm a computer science student specializing in software engineering.
+- 📚 I'm currently studying in the fifth year at the Higher National School of Computer Science in Algiers.
+- 🌱 I'm currently improving my skills to develop maintainable applications by learning different frameworks and libraries (for web or mobile development, machine learning).
+- 📫 How to reach me: kw_himeur@esi.dz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/wail-himeur-1977a1252/)
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HimeurWail&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimeurWail&layout=compact&theme=radical)
