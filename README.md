@@ -1,6 +1,3 @@
-# 👋 Hi there!
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=HimeurWail.HimeurWail)
-
 ## 💼 About Me
 - 🎓 I'm a **Master 2 student in Algorithms and Modelisation at the Interface of Sciences** at **Université Paris-Saclay**.
 - 🌱 I’m focused on **algorithm design, mathematical modelling**, and **machine learning**, and I enjoy building clean, maintainable software.
